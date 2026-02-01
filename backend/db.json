@@ -1,0 +1,87 @@
+{
+  "Deepak": {
+    "subjects": [
+      {
+        "id": "1769786191746",
+        "name": "DSA",
+        "description": "",
+        "entries": [
+          {
+            "id": "1769786211560",
+            "description": "3 leetcode questions",
+            "attachments": {
+              "image": null,
+              "pdf": null,
+              "voice": null
+            },
+            "date": "2026-01-30T15:16:51.560Z"
+          }
+        ],
+        "createdAt": "2026-01-30T15:16:31.746Z"
+      }
+    ],
+    "dailylogs": [
+      {
+        "id": "1769752133895",
+        "date": "2026-01-30",
+        "logs": [
+          "Testing API",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "createdAt": "2026-01-30T05:48:53.895Z"
+      }
+    ]
+  },
+  "Anjali": {
+    "subjects": [
+      {
+        "id": "1769752325858",
+        "name": "DSA",
+        "description": "",
+        "entries": [],
+        "createdAt": "2026-01-30T05:52:05.858Z"
+      },
+      {
+        "id": "1769752582125",
+        "name": "Grouping Test",
+        "description": "",
+        "entries": [
+          {
+            "id": "1769752682937",
+            "description": "ihvkhvkj",
+            "attachments": {
+              "image": null,
+              "pdf": null,
+              "voice": null
+            },
+            "date": "2026-01-30T05:58:02.937Z"
+          }
+        ],
+        "createdAt": "2026-01-30T05:56:22.125Z"
+      }
+    ],
+    "dailylogs": []
+  }
+}
